@@ -1,1 +1,3 @@
 # rocketseatgithooks
+
+- exemplo usando hooks
